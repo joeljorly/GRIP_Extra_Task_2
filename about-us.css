@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "-webkit-pictograph";
+    background: url('https://www.augsburg.edu/college-recovery-program/wp-content/uploads/sites/108/2015/09/servlet-300x162.jpg?fit=scale');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+
+  .about{
+      padding-left: 30px;
+      padding-top: 100px;
+      text-align: left;
+      color: black;
+      
+  }
+
+  h1{
+      color: red;
+  }
+ 
